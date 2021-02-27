@@ -7,7 +7,7 @@ Allows for easily creating maps for spyglass 2
 3. from the root directory of the repo, run `go generate ./...` then `go build -o mapper main.go`
 
 
-# Using the tool
+## Using the tool
 1. modify the maps in the `maps/` subdirectory (prepopulated with dotlan maps)
 2. run the mapper binary
 3. open a web browser to `http://localhost:8334`
